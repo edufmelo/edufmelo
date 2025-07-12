@@ -19,6 +19,12 @@ A responsive portfolio website to showcase my work, skills, and background as a 
 🎯 Built to practice front-end development and share my professional journey.
 
 > 🔗 edufmelo.com.br
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" style="vertical-align: middle;"/>
+  <a href="https://www.linkedin.com/posts/eduardoferreirademelo_portf%C3%B3lio-website-eduardo-melo-depois-activity-7299573047605215232-i2Z-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqYHzQB26lDfpyP7i3L2VAIyJf99eJrwDQ" target="_blank" style="vertical-align: middle; margin-left: 6px;">
+    Portfolio Post
+  </a>
+</p>
 
 ---
 
@@ -28,7 +34,14 @@ Responsive and lightweight website for a local beer provider, featuring a produc
 🛠️ **Tech Stack**: HTML, CSS, JavaScript, jQuery <br>
 🍻 Focused on clean design and user-friendly interface.
 
-> 🔗 choppsularaucaria.com.br
+> 🔗 choppsularaucaria.com.br <br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" style="vertical-align: middle;"/>
+  <a href="https://www.linkedin.com/posts/eduardoferreirademelo_projeto-single-page-chopp-sul-arauc%C3%A1ria-activity-7288667519589007360-Lxry?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqYHzQB26lDfpyP7i3L2VAIyJf99eJrwDQ" target="_blank" style="vertical-align: middle; margin-left: 6px;">
+    Landing Page Post
+  </a>
+</p>
+
 ---
 
 ### 🧠 Languages & Tools
