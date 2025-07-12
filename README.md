@@ -143,13 +143,13 @@ Responsive and lightweight website for a local beer provider, featuring a produc
     <img 
         src="https://github-readme-stats.vercel.app/api?username=edufmelo&rank_icon=github&theme=algolia" 
         alt="Eduardo's GitHub Stats" 
-        height="200"
         style="padding-right: 10px;"
+        height="164"
     />
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufmelo&layout=compact&theme=algolia" 
-        alt="Top Languages"
         height="200"
+        alt="Top Languages"
     />
 </p>
 
