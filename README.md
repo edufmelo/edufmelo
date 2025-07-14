@@ -1,6 +1,6 @@
 # ☕ Eduardo Melo
 
-I’m a **Computer Engineering student at PUCPR**, passionate about technology, automation, and full-stack development.
+I’m a **Computer Engineering Student** at PUCPR with a strong interest in technology, automation, and full-stack development.
 
 Previously:
 
