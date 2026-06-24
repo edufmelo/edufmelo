@@ -2,6 +2,10 @@
 
 I’m a **Computer Engineering Student** at PUCPR with a strong interest in technology, automation, and full-stack development.
 
+Currently:
+
+- 🧪 Working as a **QA Intern** at **Obra Prima**
+
 Previously:
 
 - 💻 Worked as a Web Development Intern at **Obra Prima**
